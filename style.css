@@ -1,0 +1,15 @@
+/* getting started with styling */
+
+:root{
+    --bg-1: hsl(273, 75%, 66%);
+    --bg-2: hsl(240, 73%, 65%);
+}
+
+
+/* background gradients */
+/* - Soft violet: hsl(273, 75%, 66%) */
+/* - Soft blue: hsl(240, 73%, 65%) */
+
+.uni{
+background-image: linear-gradient(190deg,var(--bg-1),var(--bg-2));
+}
