@@ -29,3 +29,26 @@ body{
     background:white;
     border-radius: 2rem;
 }
+
+#image__woman{
+
+   position: relative;
+   top: 25px;
+   display:inline;
+   right:100px;
+}
+
+#image__box{
+    position: relative;
+    bottom: 150px;
+    /* display:inline-block; */
+    right:100px;
+}
+
+.questions{
+    display: inline;
+    position: relative;
+    bottom: 500px;
+    left:300px;
+}
+
